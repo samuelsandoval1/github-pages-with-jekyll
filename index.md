@@ -1,3 +1,4 @@
+theme: minima
 # Hi 👋, I'm Samuel Sandoval.
 ### This is my blog
 
