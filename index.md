@@ -1,4 +1,4 @@
-## Hi 👋, I'm Samuel Sandoval 
-# A passionate Software Developer, and Open Source Contributor
+# Hi 👋, I'm Samuel Sandoval.
+### This is my blog
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
